@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "666431614131",
+    "firebase_url": "https://astro-magnet-default-rtdb.firebaseio.com",
+    "project_id": "astro-magnet",
+    "storage_bucket": "astro-magnet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666431614131:android:45db77a681e8c9353494c6",
+        "android_client_info": {
+          "package_name": "com.astromagnet.astromagnet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666431614131-1rgu6nko5qr0v762dimfrqpc9ucnl4v9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astromagnet.astromagnet",
+            "certificate_hash": "2a5f4daf605bfd4e66036acc579c0a63d88c9209"
+          }
+        },
+        {
+          "client_id": "666431614131-b9ofuqqnr0jeqc1rb0vb8b19vs6alkd3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astromagnet.astromagnet",
+            "certificate_hash": "7bae4cf692efd6004cf9c04afca312e5912fe4ff"
+          }
+        },
+        {
+          "client_id": "666431614131-mbqqi21i41935352ukq5r2ioi9d1ej2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astromagnet.astromagnet",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "666431614131-65kc7bl2qg0phf6fkg6146rk4qkf5h37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZk8-Qw9kKFhJkS2PAEfj8k7R0-72iX98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666431614131-65kc7bl2qg0phf6fkg6146rk4qkf5h37.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "666431614131-bsvbk87ei129jt8briombtqash2qftcr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.astromagnet.astromagnet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
